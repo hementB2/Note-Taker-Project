@@ -62,3 +62,9 @@ Creation of API routes and HTML routes.
 ## Future Development
 Incorporate additional features such as bookmarks, pinned notes, and chapters.
 Integrate this note taker into future deployed applications.
+
+
+## Screenshots
+![alt text](image.png)
+![alt text](image-1.png)
+![alt text](image-2.png)
