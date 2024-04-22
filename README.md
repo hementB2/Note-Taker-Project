@@ -68,3 +68,6 @@ Integrate this note taker into future deployed applications.
 ![alt text](image.png)
 ![alt text](image-1.png)
 ![alt text](image-2.png)
+
+GitHUb Repoistory- https://github.com/hementB2/Note-Taker-Project
+Herok Live- https://student-dashboard-1863adfd3b3d.herokuapp.com/
